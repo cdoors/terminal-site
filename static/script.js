@@ -29,10 +29,10 @@ function processCommand(command) {
       `;
       break;
     case 'whoami':
-      output.innerHTML += `<div>$ I am a data analyst learning web development for fun.</div>`;
+      output.innerHTML += `<div>$ I'm Chad and I'm learning programming and software development. I hope you enjoy my site!</div>`;
       break;
     case 'projects':
-      output.innerHTML += `<div>$ Projects will be listed here...</div>`;
+      output.innerHTML += `<div>$ Visit my GitHub in the "links" section. </div>`;
       break;
     case 'links':
       output.innerHTML += `
